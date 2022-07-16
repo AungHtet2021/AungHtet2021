@@ -11,7 +11,7 @@ Try this markdown:
 
 - ⚡ Fun fact **I think I am funny**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AungHtet2021=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AungHtet2021&show_icons=true&theme=radical)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
